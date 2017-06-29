@@ -1,2 +1,2 @@
 # curvelets_other_scripts
-scripts to post-process CurveAlign/CT-FIRE output
+Scripts for CurveAlign/CT-FIRE pre- or post-processing. 
